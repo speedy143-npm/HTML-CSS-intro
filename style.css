@@ -62,7 +62,7 @@ body, html {
 header {
     width: 100vw;
     height: 100vh;
-    background-image:url('/bg6.webp');
+    background-image:url('/bg6.png');
     background-position: bottom;
     background-size: cover;
     display: flex;
